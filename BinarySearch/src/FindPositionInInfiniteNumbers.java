@@ -26,8 +26,6 @@ public class FindPositionInInfiniteNumbers {
 
     static int Solution(int[ ] array , int tar , int start , int end ){
 
-
-
         while(start <= end ){
             int mid = start + (end - start)/2 ;
 
