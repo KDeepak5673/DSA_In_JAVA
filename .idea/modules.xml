@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchInTwoArray/BinarySearchInTwoArray.iml" filepath="$PROJECT_DIR$/BinarySearchInTwoArray/BinarySearchInTwoArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenDigit/EvenDigit.iml" filepath="$PROJECT_DIR$/EvenDigit/EvenDigit.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaximumWealth/MaximumWealth.iml" filepath="$PROJECT_DIR$/MaximumWealth/MaximumWealth.iml" />
