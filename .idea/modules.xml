@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/MaximumWealth/MaximumWealth.iml" filepath="$PROJECT_DIR$/MaximumWealth/MaximumWealth.iml" />
       <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortingQuestions/SortingQuestions.iml" filepath="$PROJECT_DIR$/SortingQuestions/SortingQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
     </modules>
   </component>
 </project>
