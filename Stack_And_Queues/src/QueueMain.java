@@ -35,9 +35,5 @@ public class QueueMain {
 
         cirque.display();
 
-
-
-
-
     }
 }
