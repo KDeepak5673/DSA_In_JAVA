@@ -1,9 +1,17 @@
-public class CoustomStack {
+public class CustomStack {
 
     protected int[] data;
     private static final int DEFAULT_SIZE = 10;
 
     int ptr = -1;
+
+    public CustomStack() {
+        this(DEFAULT_SIZE);
+    }
+
+    public CustomStack(int size) {
+        this.data = new int[size];
+    }
 
     public boolean push(int item ){
 
@@ -24,9 +32,7 @@ public class CoustomStack {
         return data[ptr--];
     }
 
-    private boolean isEmpty(){
-        return ptr == -1;
-    }
+
 
     public int peek() throws StackException{
         if(isEmpty()){
@@ -40,12 +46,9 @@ public class CoustomStack {
 
         return ptr == data.length-1;
     }
-
-    public CoustomStack() {
-        this(DEFAULT_SIZE);
+    private boolean isEmpty(){
+        return ptr == -1;
     }
 
-    public CoustomStack(int size) {
-        this.data = new int[size];
-    }
+
 }
