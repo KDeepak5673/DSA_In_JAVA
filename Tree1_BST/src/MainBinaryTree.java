@@ -7,5 +7,8 @@ public class MainBinaryTree {
         tree.populate(scanner);
 //        tree.display();
         tree.preetyDisplay();
+        tree.preOrder();
+        tree.inOrder();
+        tree.postOrder();
     }
 }

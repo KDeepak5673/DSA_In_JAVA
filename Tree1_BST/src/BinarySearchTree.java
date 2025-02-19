@@ -34,7 +34,7 @@ public class BinarySearchTree {
     }
 
     public void insert(int value){
-
+        root = insert(value , root);
     }
     private Node insert(int value , Node node ){
         if(node == null){
@@ -52,6 +52,12 @@ public class BinarySearchTree {
 
         return node;
 
+    }
+
+    public void populate(int[] nums){
+        for (int i = 0; i < nums.length; i++) {
+            this.insert(nums[i]);
+        }
     }
 
     public boolean balanced(){
