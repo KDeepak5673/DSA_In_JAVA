@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/Stack_And_Queues/Stack_And_Queues.iml" filepath="$PROJECT_DIR$/Stack_And_Queues/Stack_And_Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree1_BST/Tree1_BST.iml" filepath="$PROJECT_DIR$/Tree1_BST/Tree1_BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree2_AVL/Tree2_AVL.iml" filepath="$PROJECT_DIR$/Tree2_AVL/Tree2_AVL.iml" />
     </modules>
   </component>
 </project>
