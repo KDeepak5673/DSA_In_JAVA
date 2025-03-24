@@ -20,6 +20,9 @@ public class SingleLL {
         System.out.println(list.delete(2));
         list.display();
 
+        list.insertRec(3, 533);
+        list.display();
+
 
 
 
