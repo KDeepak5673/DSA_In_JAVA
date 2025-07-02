@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Heaps/Heaps.iml" filepath="$PROJECT_DIR$/Heaps/Heaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/LargeNumber/LargeNumber.iml" filepath="$PROJECT_DIR$/LargeNumber/LargeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargeNumber2/LargeNumber2.iml" filepath="$PROJECT_DIR$/LargeNumber2/LargeNumber2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathsInDSA/MathsInDSA.iml" filepath="$PROJECT_DIR$/MathsInDSA/MathsInDSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaximumWealth/MaximumWealth.iml" filepath="$PROJECT_DIR$/MaximumWealth/MaximumWealth.iml" />
