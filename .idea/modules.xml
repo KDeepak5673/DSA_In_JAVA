@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/Tree1_BST/Tree1_BST.iml" filepath="$PROJECT_DIR$/Tree1_BST/Tree1_BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree2_AVL/Tree2_AVL.iml" filepath="$PROJECT_DIR$/Tree2_AVL/Tree2_AVL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree3_SegmentTree/Tree3_SegmentTree.iml" filepath="$PROJECT_DIR$/Tree3_SegmentTree/Tree3_SegmentTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treeToDoubleLinkedList/treeToDoubleLinkedList.iml" filepath="$PROJECT_DIR$/treeToDoubleLinkedList/treeToDoubleLinkedList.iml" />
     </modules>
   </component>
 </project>
